@@ -65,3 +65,9 @@ Web components done right =)
 ### Enzyme
 
 Provided by Airbnb, [Enzyme](https://github.com/airbnb/enzyme) provides features for testing React components.
+
+## Others
+
+### Lint
+
+[ESlint](http://eslint.org/) for code quality.
