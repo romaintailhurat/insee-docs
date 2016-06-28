@@ -56,6 +56,12 @@ Web components done right =)
 
 [Redux](http://redux.js.org/docs/introduction/) is an implementation of the Flux patterns, which provides an architectural framework for managing app state in a scalable fashion.
 
+## Communication
+
+The backends will mainly support HTTP / REST types of communication, the client will then use the [Fetch API](https://developer.mozilla.org/en/docs/Web/API/Fetch_API) (using a [polyfill](https://github.com/github/fetch) when necessary).
+
+However, some ajustment could be made, for example using Relay with a GraphQL backend, or Stardog.js with Stardog.
+
 ## Tests
 
 ### Mocha
