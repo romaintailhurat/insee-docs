@@ -76,4 +76,8 @@ Provided by Airbnb, [Enzyme](https://github.com/airbnb/enzyme) provides features
 
 ### Lint
 
-[ESlint](http://eslint.org/) for code quality.
+[ESlint](http://eslint.org/) for code quality. One easy way to start with ESLint is to use a already made definition, for example the [Airbnb one](https://www.npmjs.com/package/eslint-config-airbnb-base).
+
+### Documentation
+
+Code documentation with [JSDoc](http://usejsdoc.org/).
