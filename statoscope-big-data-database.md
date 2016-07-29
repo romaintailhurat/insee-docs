@@ -8,4 +8,6 @@ Souvent, cette transformation est résumée par le concept "base de données **N
 
 Les systèmes relationnels sont CA, c'est-à-dire qu'ils garantissent une cohérence dans les données et leur disponibilité. Les base NoSQL sont, elles, AP, hautement disponibles et permettent de distribuer les données [ref. article sur distribution].
 
-...
+Cette vision est bien sûr très haut niveau, et ne dit rien du modèle de données sous-jacent et de l'impact sur l'utilisation de telles bases de données.
+
+Les bases NoSQL offrent des modèles de données très divers, du document au format flexible au graphe reliant des entités entre elles en passant par des spécialisation comme les bases de séries temporelles. Examinons de plus près certaines solutions phares : Cassandra, MongoDB et Neo4J.
