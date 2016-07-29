@@ -8,3 +8,4 @@ Souvent, cette transformation est résumée par le concept "base de données **N
 
 Les systèmes relationnels sont CA, c'est-à-dire qu'ils garantissent une cohérence dans les données et leur disponibilité. Les base NoSQL sont, elles, AP, hautement disponibles et permettent de distribuer les données [ref. article sur distribution].
 
+...
