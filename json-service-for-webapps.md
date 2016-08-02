@@ -15,5 +15,14 @@ La solution d'encodage préférentielle est JSON, parce-que webapps JavaScript e
 
 ## Solutions
 
-File system + REST
-Horizon
+### File system + REST
+
+...
+
+### Base document
+
+MongoDB ?
+
+### API serveless
+
+Horizon + RethinkDB
