@@ -25,4 +25,4 @@ MongoDB ?
 
 ### API serveless
 
-Horizon + RethinkDB
+[Horizon + RethinkDB](http://horizon.io/)
