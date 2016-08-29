@@ -11,3 +11,5 @@ Les systèmes relationnels sont CA, c'est-à-dire qu'ils garantissent une cohér
 Cette vision est bien sûr très haut niveau, et ne dit rien du modèle de données sous-jacent et de l'impact sur l'utilisation de telles bases de données.
 
 Les bases NoSQL offrent des modèles de données très divers, du document au format flexible au graphe reliant des entités entre elles en passant par des spécialisation comme les bases de séries temporelles. Examinons de plus près certaines solutions phares : Cassandra, MongoDB et Neo4J.
+
+(Refs : http://queue.acm.org/detail.cfm?id=2983199, ...)
